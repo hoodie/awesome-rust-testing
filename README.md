@@ -2,6 +2,7 @@
 
 **WANT TO HELP??** please help up by adding more things or even better: evaluating the things on the list
 * Are the things still maintained? Can we add badges here? short descriptions? Quality Control
+**PLEASE PUT ANY CHANGES INTO THIS HACKMD FOR NOW** https://hackmd.io/rmwsf13uTaeYaLpL4yno8A?both
 
 ## Books
 * [awesome-mdbook (general)](https://github.com/softprops/awesome-mdbook) 
