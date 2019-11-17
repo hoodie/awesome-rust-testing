@@ -74,6 +74,10 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 
 * [mutagem](https://crates.io/crates/mutagen)
 
+### Concurrency Testing
+
+* [loom](https://github.com/tokio-rs/loom)
+
 ### Harnesses/Frameworks
 
 * [rspec](https://crates.io/crates/rspec)  [![Build Status](https://travis-ci.org/rust-rspec/rspec.svg?branch=master)](https://travis-ci.org/rust-rspec/rspec) [![Coverage Status](https://coveralls.io/repos/github/rust-rspec/rspec/badge.svg)](https://coveralls.io/github/rust-rspec/rspec) [![Crates.io](https://img.shields.io/crates/v/rspec.svg?maxAge=2592000)](https://crates.io/crates/rspec) [![Crates.io](https://img.shields.io/crates/l/rspec.svg?maxAge=2592000)](https://github.com/rust-rspec/rspec/blob/master/LICENSE)
