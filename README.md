@@ -61,6 +61,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [afl.rs](https://github.com/rust-fuzz/afl.rs)
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
 * [honggfuzz](https://crates.io/crates/honggfuzz)
+* [fuzzcheck-rs](https://github.com/loiclec/fuzzcheck-rs)
 
 ### Property Testing
 * https://crates.io/crates/quickcheck https://crates.io/crates/quickcheck_macros
