@@ -2,7 +2,6 @@
 
 **WANT TO HELP??** please help up by adding more things or even better: evaluating the things on the list
 * Are the things still maintained? Can we add badges here? short descriptions? Quality Control
-**PLEASE PUT ANY CHANGES INTO THIS HACKMD FOR NOW** https://hackmd.io/rmwsf13uTaeYaLpL4yno8A?both
 
 ## Books
 * [awesome-mdbook (general)](https://github.com/softprops/awesome-mdbook) 
@@ -21,6 +20,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [mockers](https://crates.io/crates/mockers)
 * [simulacrum](https://crates.io/crates/simulacrum)
 * [Mockiato](https://crates.io/crates/mockiato)
+* [mockito](https://docs.rs/mockito/0.21.0/mockito/)(http mocks)
 
 ### Snapshop Testing
 
@@ -32,6 +32,10 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [assert matches](https://crates.io/crates/assert_matches)
 * [fuzzy matcher](https://crates.io/crates/fuzzy-matcher)
 * [try_match](https://crates.io/crates/try_match)
+
+### Generated output matchers
+
+* [specker](https://crates.io/crates/specker) A framework to collect test inputs and expected outputs from multiple files and check them. Used to test code generation (last update 2017, *needs way more examples*)
 
 ### [Diffing](https://crates.io/keywords/diff)
 * [prettydiff](https://crates.io/crates/prettydiff)
@@ -61,7 +65,6 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [afl.rs](https://github.com/rust-fuzz/afl.rs)
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
 * [honggfuzz](https://crates.io/crates/honggfuzz)
-* [fuzzcheck-rs](https://github.com/loiclec/fuzzcheck-rs)
 
 ### Property Testing
 * https://crates.io/crates/quickcheck https://crates.io/crates/quickcheck_macros
@@ -74,10 +77,6 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Mutation Testing
 
 * [mutagem](https://crates.io/crates/mutagen)
-
-### Concurrency Testing
-
-* [loom](https://github.com/tokio-rs/loom)
 
 ### Harnesses/Frameworks
 
@@ -112,17 +111,22 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * https://crates.io/crates/assert_cmd
 * [assert_cli](https://crates.io/crates/assert_cli): the sucessor is [assert_cmd](https://crates.io/crates/assert_cmd)
 
+## CI
+
+* [crate-ci book](https://crate-ci.github.io/) contains general suggestions on maintaining high crate quality
+* [Azure Pipelines](https://crate-ci.github.io/azure-pipelines/) contains great templates for cross-platform testing
+
 ## BlogPosts
 * [How Rust is Tested](https://brson.github.io/2017/07/10/how-rust-is-tested)
-* [Mocking libraries comparison](https://asomers.github.io/mock_shootout/)
+* **[Mocking libraries comparison](https://asomers.github.io/mock_shootout/)**
+* [On Mocking Rust](https://tech.labs.oliverwyman.com/blog/2018/05/21/on-mocking-rust/)
+* [Mocking in Rust with conditional compilation](https://klau.si/blog/mocking-in-rust-with-conditional-compilation/)
+* [How to Mock Time in Rust Tests and Cargo Gotchas We Met](https://blog.iany.me/2019/03/how-to-mock-time-in-rust-tests-and-cargo-gotchas-we-met/)
 * [Kcov and tarpaulin code coverage](https://blog.knoldus.com/bid-adieu-to-tarpaulin-html-reports-are-here-for-rust/)
 * [Tutorial: How to collect test coverages for Rust project](https://users.rust-lang.org/t/tutorial-how-to-collect-test-coverages-for-rust-project/650/14)
 * [Rust Code Coverage Guide: kcov + Travis CI + Codecov / Coveralls](https://sunjay.dev/2016/07/25/rust-code-coverage)
-* [On Mocking Rust](https://tech.labs.oliverwyman.com/blog/2018/05/21/on-mocking-rust/)
 * [Performance Testing on Travis CI](https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/)
 * [Coverage with kcov + Travis CI + Codecov / Coveralls](https://sunjay.dev/2016/07/25/rust-code-coverage)
-* [Mocking in Rust with conditional compilation](https://klau.si/blog/mocking-in-rust-with-conditional-compilation/)
-* [How to Mock Time in Rust Tests and Cargo Gotchas We Met](https://blog.iany.me/2019/03/how-to-mock-time-in-rust-tests-and-cargo-gotchas-we-met/)
 * [Testing a Rust Command Line Tool](https://mattgathu.github.io/testing-rust-cli-apps/)(for [assert_cli](https://crates.io/crates/assert_cli))
 * [Rust Mutation Testing](https://llogiq.github.io/2016/03/24/mutest.html)(for [mutagem](https://crates.io/crates/mutagen))
 * [Testing With Unused Arguments](https://llogiq.github.io/2015/08/17/test.html)
