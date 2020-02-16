@@ -21,6 +21,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [simulacrum](https://crates.io/crates/simulacrum)
 * [Mockiato](https://crates.io/crates/mockiato)
 * [mockito](https://docs.rs/mockito/0.21.0/mockito/)(http mocks)
+* [faux](https://github.com/nrxus/faux)
 
 ### Snapshop Testing
 
