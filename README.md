@@ -22,6 +22,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [Mockiato](https://crates.io/crates/mockiato)
 * [mockito](https://docs.rs/mockito/0.21.0/mockito/)(http mocks)
 * [faux](https://github.com/nrxus/faux)
+* [wiremock](https://crates.io/crates/wiremock)
 
 ### Snapshop Testing
 
@@ -59,6 +60,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [tarpaulin](https://github.com/xd009642/tarpaulin)
 * [cargo-kcov](https://crates.io/crates/cargo-kcov)
 * [grcov](https://crates.io/crates/grcov)
+* [coverage marks](https://ferrous-systems.com/blog/coverage-marks/)
 
 
 ### Fuzzing
