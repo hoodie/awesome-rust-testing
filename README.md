@@ -34,6 +34,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [assert matches](https://crates.io/crates/assert_matches)
 * [fuzzy matcher](https://crates.io/crates/fuzzy-matcher)
 * [try_match](https://crates.io/crates/try_match)
+* [K9](https://github.com/aaronabramov/k9)
 
 ### Generated output matchers
 
