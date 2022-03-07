@@ -13,6 +13,11 @@
 
 Turns out, there is an entire subcategory on crates.io [Development tools::Testing](https://crates.io/categories/development-tools::testing)
 
+### Extensions
+* [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
+* [nextest](https://nexte.st/) - test runner
+* [assay](https://github.com/mgattozzi/assay) - super powered testing macro
+
 ### Mocking
 * [MockAll](https://crates.io/crates/mockall) ([Examples](https://crates.io/crates/mockall_examples), [Derive Macro](https://crates.io/crates/mockall_derive))
 * [Mocktopus](https://crates.io/crates/mocktopus)
