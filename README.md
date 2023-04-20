@@ -28,6 +28,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [mockito](https://docs.rs/mockito/0.21.0/mockito/)(http mocks)
 * [faux](https://github.com/nrxus/faux)
 * [wiremock](https://crates.io/crates/wiremock)
+* [unimock](https://crates.io/crates/unimock)
 
 ### Snapshop Testing
 
@@ -144,6 +145,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 * [Testing strategies and pattern for efficient TDD in Rust by Thomas Wickham](https://www.youtube.com/watch?v=U3F7uAOCjEo)
 
 ## Patterns
+* [entrait](https://crates.io/crates/entrait)
 
 ## Other Awesomes
 
