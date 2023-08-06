@@ -15,6 +15,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 
 ### Extensions
 * [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
+* [ntest](https://github.com/becheran/ntest) - Testing framework for rust enhancing the built-in library with some useful features
 * [nextest](https://nexte.st/) - test runner
 * [assay](https://github.com/mgattozzi/assay) - super powered testing macro
 
