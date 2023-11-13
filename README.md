@@ -88,6 +88,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Mutation Testing
 
 * [mutagem](https://crates.io/crates/mutagen)
+* [cargo-mutants](https://github.com/sourcefrog/cargo-mutants)
 
 ### Harnesses/Frameworks
 
