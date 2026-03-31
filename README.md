@@ -105,6 +105,10 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Model Based Testing
 
 * [model](https://crates.io/crates/model)
+* [kani](https://crates.io/crates/kani-verifier)
+* [creusot](https://github.com/creusot-rs/creusot)
+* [prusti](https://github.com/viperproject/prusti-dev)
+* [aeneas](https://github.com/AeneasVerif/aeneas)
 
 ### Testing Webservices
 
