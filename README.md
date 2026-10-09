@@ -109,6 +109,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Testing Webservices
 
 * https://crates.io/crates/drill
+* [Keploy](https://github.com/keploy/keploy) - record and replay API traffic as tests with dependency mocks in isolated sandboxes
 
 
 ### More Cargo Tools
