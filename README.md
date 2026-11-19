@@ -123,6 +123,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Testing CommandLine Applications
 * https://crates.io/crates/assert_cmd
 * [assert_cli](https://crates.io/crates/assert_cli): the sucessor is [assert_cmd](https://crates.io/crates/assert_cmd)
+* [behave](https://github.com/emirmrkaljevic/behave): records a CLI's stdout, stderr and exit codes as test cases, then replays them against a rewrite (used on uutils coreutils and findutils)
 
 ## CI
 
